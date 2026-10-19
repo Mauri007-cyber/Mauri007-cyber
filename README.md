@@ -8,7 +8,7 @@ Estudiante de **Física Computacional**, **Ingeniería del Software** e **IA Gen
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![C](https://img.shields.io/badge/-C-F05032?style=flat&logo=git&logoColor=white)
+![C](https://shields.io)
 ![Java](https://img.shields.io/badge/-Java-F05032?style=flat&logo=git&logoColor=white)
 ## Contacto
 [LinkedIn](https://linkedin.com/in/[tu-perfil]) · [mauymel0707@gmail.com](mailto:mauymel0707@gmail.com)

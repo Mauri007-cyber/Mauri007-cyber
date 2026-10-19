@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola, soy Mauricio 👋
 
-<!--
-**Mauri007-cyber/Mauri007-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de **Física Computacional**, **Ingeniería del Software** e **IA Generativa** en [U-tad](https://u-tad.com).
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![C](https://img.shields.io/badge/-C-F05032?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-F05032?style=flat&logo=git&logoColor=white)
+## Contacto
+[LinkedIn](https://linkedin.com/in/[tu-perfil]) · [mauymel0707@gmail.com](mailto:mauymel0707@gmail.com)
